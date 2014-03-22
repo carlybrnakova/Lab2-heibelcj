@@ -1,0 +1,38 @@
+
+
+1. Yes, I have worked largely with SVN and barely with Git.
+2. Yes, I have worked with a command prompt/shell before, including:
+	Windows cmd (small amount)
+	Linux Terminal
+	My own shell, created in CSSE332
+3. The "git add" command prepares the file that is changed to be committed.
+   It notifies the system that whatever file is added will be committed next.
+4. The "git commit" command locally updates the repository to acknowledge
+   the changes that have been made.
+5. The "git push" command updates the team repository so all memmbers
+   of the team now will see the changes.
+6. At this point there are 2 copies (the remote and the other team member's
+   local) but by the end of lab there will be 3.
+7. There are 3. One for the initial commit and two more for what we've done
+   so far in this lab.
+8. The second commit was created by Jordan Moore.
+9. The second commit involved a change in the README.md file, an addition
+   of the text "First change"
+10. There are 2 members on my team. There are now 3 branches in GitHub's
+    copy of the repository.
+11. None exist on the master branch. One exists on each of our respective
+    branches (our own username.txt file is on our own branch).
+12. The "git branch" command creates another path to work on instead of 
+    always committing changes to the master branch.
+13. The "git checkout" command creates a folder with the specified location
+    and designates that new location as the place where work will now be
+    done instead of whatever other branch it used to be working on.
+14. There are 2 members on my team. There are 3 versions of the README file
+    in GitHub.
+15. There are 2 members on my team. We performed two Git merges, one 
+    fast-forward and one manually.
+16. There are still three branches.
+17. No, they are not, because they each have their own individual files
+    independent of the other branches. The master branch contains files
+    merged from the other branches, but the other branches still remain
+    distinct.
